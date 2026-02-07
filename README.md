@@ -21,8 +21,8 @@ Thank you for using my model!
 
 	<<Setup>>:
 
-Create a part or parts, or copy the one premade.
-Group the part/s into a model (Ctrl+G)
-And just put it in workspace/VC_Zones/Zones
-Remember to turn off "CanCollide"!
+Create a part or parts, or copy the one premade.<br>
+Group the part/s into a model (Ctrl+G)<br>
+And just put it in workspace/VC_Zones/Zones<br>
+Remember to turn off "CanCollide"!<br>
 
